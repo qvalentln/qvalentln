@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - Ask me anything about Data Structures and Algorithms
-
+- Doing Competitive Programming just for fun, idk
 
 
 ![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=qvalentin)
