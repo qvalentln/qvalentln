@@ -6,18 +6,18 @@
 
 <h3>Career</h3>
 
-- Bachelor's CS student at University of Bucharest
+- 📫 Bachelor's CS student at University of Bucharest
 
-- Member of <a href="https://sepi.ro">sepi.ro</a> ?? '26
+- ⚡ Member of <a href="https://sepi.ro">sepi.ro</a> ?? '26
 
   <i><b>Nemo melior me est; ego ipse sum inimicus meus maximus.</b></i>
 
   <i>qvalentin 2022 - </i>
 
-- I'm currently mastering <a href="https://en.wikipedia.org/wiki/Trie">Data Structures</a> and <a href="https://codeforces.com/blog/entry/48868">Algorithms</a>
+- 📫 I'm currently focusing on <a href="https://en.wikipedia.org/wiki/Trie">Data Structures</a> and <a href="https://codeforces.com/blog/entry/48868">Algorithms</a>
 ![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=qvalentin)
 
-- 
+- ⚡ I am eager to master OOP.
 
 
 <!--
