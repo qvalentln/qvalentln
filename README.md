@@ -4,6 +4,7 @@
 - 💬 <a href="mailto:qvalentin@outlook.com">qvalentin@outlook.com</a>
 
 <h3>Career</h3>
+
 - Bachelor's CS student at University of Bucharest
 
 - Member of <a href="https://sepi.ro">sepi.ro</a> ?? '26
