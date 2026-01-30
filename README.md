@@ -1,14 +1,15 @@
 ## Hi there 👋
 
-<h3 align="center">Contact</h3>
+<h3>Contact</h3>
 - 💬 <a href="mailto:qvalentin@outlook.com">qvalentin@outlook.com</a>
 
-<h3 align="center">Career</h3>
-- <a href="https://sepi.ro">sepi.ro</a> ?? '26
-
-
-
+<h3>Career</h3>
+- Bachelor's CS student at University of Bucharest
+- Member of <a href="https://sepi.ro">sepi.ro</a> ?? '26
+- I'm currently mastering <a href="https://en.wikipedia.org/wiki/Trie">Data Structures</a> and <a href="https://codeforces.com/blog/entry/48868">Algorithms</a>
 ![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=qvalentin)
+
+
 
 <!--
 **qvalentln/qvalentln** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
