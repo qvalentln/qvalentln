@@ -11,12 +11,7 @@
 - ⚡ Member of <a href="https://sepi.ro">sepi.ro</a> ?? '26
 
 - ⚡ Doing competitive programming as a hobby
-<div align="center">
-  <img src="https://userpic.codeforces.org/no-avatar.jpg" width="100" height="100" style="border-radius: 50%;" />
-  <br />
-  <img src="https://img.shields.io/codeforces/rating/qvalentin?style=for-the-badge" />
-  <img src="https://img.shields.io/codeforces/rank/qvalentin?style=for-the-badge" />
-</div>
+![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=qvalentin)
 
   <i><b>Nemo melior me est; ego ipse sum inimicus meus maximus.</b></i>
 
