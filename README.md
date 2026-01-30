@@ -11,7 +11,12 @@
 - ⚡ Member of <a href="https://sepi.ro">sepi.ro</a> ?? '26
 
 - ⚡ Doing competitive programming as a hobby
-![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=qvalentin)
+<div align="center">
+  <img src="https://userpic.codeforces.org/no-avatar.jpg" width="100" height="100" style="border-radius: 50%;" />
+  <br />
+  <img src="https://img.shields.io/codeforces/rating/qvalentin?style=for-the-badge" />
+  <img src="https://img.shields.io/codeforces/rank/qvalentin?style=for-the-badge" />
+</div>
 
   <i><b>Nemo melior me est; ego ipse sum inimicus meus maximus.</b></i>
 
@@ -20,6 +25,9 @@
 - 📫 I'm currently focusing on <a href="https://en.wikipedia.org/wiki/Trie">Data Structures</a> and <a href="https://codeforces.com/blog/entry/48868">Algorithms</a>
 
 - ⚡ I am eager to master OOP.
+
+<h3>Bonus</h3>
+- 
 
 
 <!--
