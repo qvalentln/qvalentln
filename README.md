@@ -12,10 +12,11 @@
 
 - ⚡ Doing competitive programming as a hobby
 
-<div>
-  <img src="https://userpic.codeforces.org/no-avatar.jpg" width="100" height="100" style="border-radius: 50%;" />
+<div align="center">
+  <img src="https://userpic.codeforces.org/3358043/title/0773d57f07096c41.jpg" width="100" height="100" />
   <br />
-  <img src="https://img.shields.io/codeforces/rating/qvalentin?style=for-the-badge" />
+  <img src="https://img.shields.io/codeforces/rating/qvalentin?style=for-the-badge&logo=codeforces&color=blue" />
+  
 </div>
 
   <i><b>Nemo melior me est; ego ipse sum inimicus meus maximus.</b></i>
