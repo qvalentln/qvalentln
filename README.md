@@ -23,7 +23,8 @@
 - ⚡ I am eager to master OOP.
 
 <h3>Bonus</h3>
-- 
+
+- austerity is <a href="https://www.instagram.com/p/DUDNvQDCLRk/?igsh=cXJ2bTFxbHRjeW9n> awful.</a>
 
 
 <!--
