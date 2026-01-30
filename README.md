@@ -20,13 +20,15 @@
 
 - 📫 I'm currently focusing on <a href="https://en.wikipedia.org/wiki/Trie">Data Structures</a> and <a href="https://codeforces.com/blog/entry/48868">Algorithms</a>
 
-- ⚡ I am eager to master OOP.
+- ⚡ I'm eager to master OOP.
 
 <h3>Bonus</h3>
 
 - don't cut education <a href="https://www.instagram.com/p/DUDNvQDCLRk/?igsh=cXJ2bTFxbHRjeW9n">funding.</a>
 
 - <a href="https://en.wikipedia.org/wiki/Urban_exploration">urbex</a> enjoyer
+
+- embrace <a href="https://switching.software">open-source</a> 
 
 - <i>this is driving me <a href="https://soundcloud.com/user-639366356/its-snowing-like-its-the-end#t=1m46s" target="_blank">crazy</a></i>
 
