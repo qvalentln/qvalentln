@@ -12,7 +12,8 @@
 
 - ⚡ Doing competitive programming as a hobby
 
-[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=qvalentin&theme=dracula&disable_animations=true&show_icons=true&force_username=true)](https://codeforces.com/profile/qvalentin)
+![Codeforces Rating](https://img.shields.io/codeforces/rating/qvalentin)
+![Codeforces Rank](https://img.shields.io/codeforces/rank/qvalentin)
 
   <i><b>Nemo melior me est; ego ipse sum inimicus meus maximus.</b></i>
 
