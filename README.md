@@ -10,6 +10,9 @@
 
 - ⚡ Member of <a href="https://sepi.ro">sepi.ro</a> ?? '26
 
+- ⚡ Doing competitive programming as a hobby
+![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=qvalentin)
+
   <i><b>Nemo melior me est; ego ipse sum inimicus meus maximus.</b></i>
 
   <i>qvalentin 2022 - </i>
