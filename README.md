@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <h3 align="center">Contact</h3>
-- 💬 <a href="mailto:qvalentin@outlook.com>qvalentin@outlook.com</a>
+- 💬 <a href="mailto:qvalentin@outlook.com">qvalentin@outlook.com</a>
 
 <h3 align="center">Career</h3>
 - <a href="https://sepi.ro">sepi.ro</a> ?? '26
