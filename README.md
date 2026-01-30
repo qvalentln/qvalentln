@@ -12,7 +12,7 @@
 
 - ⚡ Doing competitive programming as a hobby
 
-[![Codeforces](https://badges.joonhyung.xyz/codeforces/jo_on.svg)](https://codeforces.com/profile/qvalentin)
+[![Codeforces](https://badges.joonhyung.xyz/codeforces/qvalentin.svg)](https://codeforces.com/profile/qvalentin)
 
   <i><b>Nemo melior me est; ego ipse sum inimicus meus maximus.</b></i>
 
