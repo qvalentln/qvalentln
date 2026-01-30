@@ -4,7 +4,7 @@
 
 
 
-[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=qvalentin)](https://codeforces.com/profile/qvalentin)
+![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=qvalentin)
 
 <!--
 **qvalentln/qvalentln** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
