@@ -18,7 +18,7 @@
 
 - 📫 I'm currently focusing on <a href="https://en.wikipedia.org/wiki/Trie">Data Structures</a> and <a href="https://codeforces.com/blog/entry/48868">Algorithms</a>
 
-- ⚡ I'm eager to master OOP.
+- ⚡ I'm eager to master <a href="https://en.wikipedia.org/wiki/Object-oriented_programming">OOP</a>.
 
 <h3>Bonus</h3>
 
