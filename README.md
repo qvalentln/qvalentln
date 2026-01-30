@@ -24,7 +24,7 @@
 
 <h3>Bonus</h3>
 
-- austerity is <a href="https://www.instagram.com/p/DUDNvQDCLRk/?igsh=cXJ2bTFxbHRjeW9n"> awful.</a>
+- don't cut education <a href="https://www.instagram.com/p/DUDNvQDCLRk/?igsh=cXJ2bTFxbHRjeW9n">funding.</a>
 
 
 <!--
