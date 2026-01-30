@@ -28,7 +28,7 @@
 
 - embrace <a href="https://switching.software">open-source</a>!
 
-- <i>this is driving me <a href="https://soundcloud.com/user-639366356/its-snowing-like-its-the-end#t=1m46s" target="_blank">crazy</a></i>
+- <i>it's so over for <a href="https://soundcloud.com/user-639366356/its-snowing-like-its-the-end#t=1m46s" target="_blank">me</a></i> 💜💔
 
 
 <!--
