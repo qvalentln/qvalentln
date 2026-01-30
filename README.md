@@ -30,7 +30,7 @@
 
 - <i>it's so <a href="https://soundcloud.com/podosinnikovrodion40/aquakey-my-dear-melancholy">over</a> for <a href="https://soundcloud.com/user-639366356/its-snowing-like-its-the-end#t=1m46s" target="_blank">me</a>💜💔</i>
 
-<i>Моя тоска — моя подруга, моя плоть от крови</i>
+  <i>Моя тоска — моя подруга, моя плоть от крови</i>
 
 
 <!--
