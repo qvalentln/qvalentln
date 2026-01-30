@@ -5,8 +5,11 @@
 
 <h3>Career</h3>
 - Bachelor's CS student at University of Bucharest
+
 - Member of <a href="https://sepi.ro">sepi.ro</a> ?? '26
+
 - I'm currently mastering <a href="https://en.wikipedia.org/wiki/Trie">Data Structures</a> and <a href="https://codeforces.com/blog/entry/48868">Algorithms</a>
+
 ![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=qvalentin)
 
 
