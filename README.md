@@ -12,7 +12,13 @@
 
 - ⚡ Doing competitive programming as a hobby
 
-![Codeforces Rating](https://img.shields.io/codeforces/rating/qvalentin?label=Codeforces&color=0088cc)
+<div align="center">
+  <img src="https://userpic.codeforces.org/3358043/title/0773d57f07096c41.jpg" width="100" height="100" alt="qvalentin" />
+  <br />
+  <a href="https://codeforces.com/profile/qvalentin">
+    <img src="https://img.shields.io/codeforces/rating/qvalentin?style=for-the-badge&logo=codeforces&label=Rating&color=0088cc" alt="Codeforces Rating" />
+  </a>
+</div>
 
   <i><b>Nemo melior me est; ego ipse sum inimicus meus maximus.</b></i>
 
