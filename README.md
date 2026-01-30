@@ -1,7 +1,11 @@
 ## Hi there 👋
 
-- Ask me anything about Data Structures and Algorithms
-- Doing Competitive Programming just for fun, idk
+<h3 align="center">Contact</h3>
+- 💬 **qvalentin@outlook.com**
+
+<h3 align="center">Career</h3>
+- **sepi.ro** ?? '26
+
 
 
 ![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=qvalentin)
