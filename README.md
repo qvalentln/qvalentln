@@ -12,7 +12,7 @@
 
 - ⚡ Doing competitive programming as a hobby
 
-<div align="center">
+<div>
   <img src="https://userpic.codeforces.org/no-avatar.jpg" width="100" height="100" style="border-radius: 50%;" />
   <br />
   <img src="https://img.shields.io/codeforces/rating/YOUR_USERNAME?style=for-the-badge" />
