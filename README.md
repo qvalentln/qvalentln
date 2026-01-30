@@ -4,7 +4,7 @@
 - 💬 **qvalentin@outlook.com**
 
 <h3 align="center">Career</h3>
-- **sepi.ro** ?? '26
+- <a href="sepi.ro">sepi.ro</a> ?? '26
 
 
 
