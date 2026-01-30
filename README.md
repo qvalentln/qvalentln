@@ -25,7 +25,10 @@
 <h3>Bonus</h3>
 
 - don't cut education <a href="https://www.instagram.com/p/DUDNvQDCLRk/?igsh=cXJ2bTFxbHRjeW9n">funding.</a>
-- <i>"when you are thinking about the <a href="https://soundcloud.com/user-639366356/its-snowing-like-its-the-end#t=1m46s" target="_blank">F version</a> of urself" - random Soundcloud user</i>
+
+- <a href="https://en.wikipedia.org/wiki/Urban_exploration">urbex</a> enjoyer
+
+- <i>this is driving me <a href="https://soundcloud.com/user-639366356/its-snowing-like-its-the-end#t=1m46s" target="_blank">crazy</a></i>
 
 
 <!--
