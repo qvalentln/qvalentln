@@ -28,7 +28,7 @@
 
 - embrace <a href="https://switching.software">open-source</a>!
 
-- <i>keep moving <a href="https://soundcloud.com/podosinnikovrodion40/aquakey-my-dear-melancholy#t=1s">forward</a>, even if you die, even after you die. dedicate your <a href="https://soundcloud.com/user-639366356/its-snowing-like-its-the-end#t=1m46s" target="_blank">heart💜💔🤍</a></i>
+- <i>keep moving <a href="https://soundcloud.com/podosinnikovrodion40/aquakey-my-dear-melancholy#t=1s">forward</a>, even if you die, even after you die. dedicate your <a href="https://soundcloud.com/user-639366356/its-snowing-like-its-the-end#t=1m46s" target="_blank">heart</a>💜💔🤍</i>
 
   <i>Моя тоска — моя подруга, моя плоть от крови</i>
 
