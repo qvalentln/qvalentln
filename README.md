@@ -8,7 +8,7 @@
 
 - 📫 Bachelor's CS student at University of Bucharest
 
-- ⚡ Member of <a href="https://sepi.ro">sepi.ro</a> ?? '26
+- ⚡ Member of <a href="https://sepi.ro">sepi.ro</a> ?? committee '26
 
 - ⚡ Doing competitive programming as a hobby [![Codeforces](https://badges.joonhyung.xyz/codeforces/qvalentin.svg)](https://codeforces.com/profile/qvalentin)
 
