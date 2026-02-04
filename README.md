@@ -5,7 +5,7 @@
 - 💬 How to reach me: <a href="mailto:qvalentin@outlook.com">qvalentin@outlook.com</a>
 
 <h3>About me</h3>
-- You can find more about me <a href="https://qvalentin.github.io">here</a>
+- You can find more about me <a href="https://qvalentln.github.io">here</a>
 
 
 
