@@ -1,10 +1,9 @@
-## Hi there 👋
+## Hello there..
 
 <h3>Contact</h3>
 
-- 💬 How to reach me: <a href="mailto:qvalentin@outlook.com">qvalentin@outlook.com</a>
+- <a href="mailto:qvalentin@outlook.com">qvalentin@outlook.com</a>
 
-<h3>About me</h3>
 - You can find more about me <a href="https://qvalentln.github.io">here</a>
 
 
