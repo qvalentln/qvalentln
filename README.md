@@ -6,6 +6,12 @@
 
 - <a href="https://qvalentln.github.io">personal page</a>
 
+<h3>connect</h3>
+- 
+
+<h3>other profiles</h3>
+- <a href="https://codeforces.com/profile/qvalentin">codeforces</a>
+
 
 
 <!--
