@@ -2,15 +2,17 @@
 
 <h3>contact</h3>
 
-- <a href="mailto:qvalentin@outlook.com">mail</a>
+- <a href="mailto:qvalentin@outlook.com"> mail</a>
 
-- <a href="https://qvalentln.github.io">personal page</a>
+- <a href="https://qvalentln.github.io"> personal page</a>
 
 <h3>connect</h3>
-- 
+- <a href=""> linkedin </a>
 
 <h3>other profiles</h3>
-- <a href="https://codeforces.com/profile/qvalentin">codeforces</a>
+
+- <a href="https://leetcode.com/u/qvalentin/"> leetcode
+- <a href="https://codeforces.com/profile/qvalentin"> codeforces</a>
 
 
 
