@@ -1,10 +1,10 @@
-## Hello there..
+## "bine ai venit, rau ai nimerit"
 
-<h3>Contact</h3>
+<h3>contact</h3>
 
-- <a href="mailto:qvalentin@outlook.com">qvalentin@outlook.com</a>
+- <a href="mailto:qvalentin@outlook.com">mail</a>
 
-- You can find more about me <a href="https://qvalentln.github.io">here</a>
+- <a href="https://qvalentln.github.io">personal page</a>
 
 
 
