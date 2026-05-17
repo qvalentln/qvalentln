@@ -15,3 +15,5 @@
 <a href="https://codeforces.com/profile/qvalentin"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"></a>
 <a href="https://www.kaggle.com/xquvim"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"></a>
 
+<h3> other skills </h3>
+
