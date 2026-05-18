@@ -8,6 +8,7 @@
 
 <h3>connect</h3>
 <a href="https://www.linkedin.com/in/qvalentin/"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://x.com/xquvim"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>
 
 <h3>other profiles</h3>
 
