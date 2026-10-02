@@ -1,5 +1,8 @@
 ## "bine ai venit, rau ai nimerit"
 
+<img src="https://i.ibb.co/ymJ8GvCF/81-DBAAF0-32-B8-4665-87-DF-E32382443-F8-B.png" width="100%">
+
+
 <h3>contact</h3>
 
 <a href="mailto:qvalentin@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
